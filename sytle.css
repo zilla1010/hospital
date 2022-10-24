@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.custom-shape-divider-top-1666566086 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+.logo{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 5%;
+    height: 70px;
+    position: absolute;
+    top: 0;
+    z-index: 10;
+}
+.log1{
+    size: 300px;
+}
+.services{
+    width: ;
+    height: 100%;
+    margin-top: 200px;
+    text-align: center;
+
+}
+.services h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    height: 80%;
+    
+}
+.healthcare{
+    padding: 50px 8%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.cards p{
+    color: rgb(41, 35, 27);
+}
+
+
+
+
+.list{
+    display: flex;
+    gap: 30px;
+    color: white;
+    font-weight: 500;
+}
+.signs{
+    font-size: 18px;
+    padding: 15px 35px;
+    border: none;
+    border-radius: 50px;
+}
+.buttons{
+    font-size: 20px;
+    padding: 15px 35px;
+    border: none;
+    border-radius: 70px;
+    
+} 
+
+
+.intro{
+    background-image:url(images/nurse-measuring-patient-blood-pressure.jpg) ;
+    height:100% ;
+    width: 100%;
+
+}
+
